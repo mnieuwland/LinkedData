@@ -32,3 +32,4 @@ Stel de dataset hierboven gebruikt voor het begrip "Argentinië" het webadres "h
 In het plaatje is dan eenvoudig te zien dat "Willem" is verbonden met de "WK-finale 1978" via de stad waar het WK gespeeld is, dat de hoofdstad is van het land waar zijn echtgenoot is geboren.
 
 Door het hergebruik van reeds bestaande webadressen in je eigen data, kun je die eenvoudig verrijken met data die al beschikbaar is over de onderwerpen die voorkomen in je eigen data. De technieken die beschikbaar zijn voor Linked Data zijn er in de kern op gericht om datasets te koppelen. Het is bijvoorbeeld erg eenvoudig om een vraag te stellen aan meedere datasets in één keer, zonder dat je die data eerst in één dataset moet samenbrengen. De data blijft gewoon op de originele lokatie staan en de zogenaamde "federated query" bevraagt de sets als een geheel.
+<test>-</test>
